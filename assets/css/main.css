@@ -1633,7 +1633,7 @@ input, select, textarea {
 		}
 
 		.image.fit {
-			display: block;
+			display: inline-grid;
 			width: 100%;
 		}
 
